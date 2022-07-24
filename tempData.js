@@ -20,23 +20,4 @@ export default tempData = [
       },
     ],
   },
-/*{ 
-    id: 2,
-    name: "plann a trip",
-    color: "#D85963",
-    todos: [
-      {
-        title: "Book Flight",
-        completed: true,
-      },
-      {
-        title: "Passport Check",
-        completed: false,
-      },
-      {
-        title: "Pack Luggage",
-        completed: false,
-      },
-    ],
-  }, */
 ];
