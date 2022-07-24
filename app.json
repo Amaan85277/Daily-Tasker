@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "todo",
-    "slug": "todo",
-    "version": "1.0.0",
+    "name": "Daily Tasker",
+    "slug": "todo-todo",
+    "version": "1.2.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -21,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"daily.tasker",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
